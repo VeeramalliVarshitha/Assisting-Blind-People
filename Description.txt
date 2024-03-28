@@ -1,0 +1,5 @@
+Object detection is a computer vision technique that allows us to identify and locate objects in an image or video. 
+Several research projects aim to assist visually impaired individuals through smart technology solutions integrating artificial intelligence and image processing.
+These solutions include smart canes equipped with obstacle detection and identification features, wireless communication for safety, and virtual eyes using camera modules to recognize objects and provide voice assistance.
+One such project, named Third Eye, utilizes the YOLOv5 image detection model to identify objects in the environment and employs text-to-speech converters like gTTS and pyttsx3 for generating descriptions of detected objects. 
+This approach offers improved accuracy and usability compared to existing methods. Overall, these innovations seek to enhance the independence and quality of life for visually impaired individuals globally.
